@@ -1,0 +1,15 @@
+[debug] > Exec(AirportsDF.count(), None, None)
+[error] Expected ID character
+[error] Not a valid command: AirportsDF
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected configuration ident
+[error] Expected '/'
+[error] Expected key
+[error] Not a valid key: AirportsDF
+[error] AirportsDF.count()
+[error]           ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
